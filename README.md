@@ -66,30 +66,7 @@ Navigate through the following sections of the website:
 
 The contact form uses [EmailJS](https://www.emailjs.com/) for sending emails. Ensure you configure your email service correctly in the `.env` file.
 
-## 🤝 Contributing
 
-We welcome contributions to improve the website! Please follow these steps:
-
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature/your-feature`).
-3. Make your changes.
-4. Commit your changes (`git commit -am 'Add new feature'`).
-5. Push to the branch (`git push origin feature/your-feature`).
-6. Create a new Pull Request.
-
-## 🔍 Testing
-
-Ensure your changes do not break existing functionality by running the tests:
-
-```bash
-npm test
-```
-
-or
-
-```bash
-yarn test
-```
 
 
 
