@@ -17,7 +17,7 @@ Follow these steps to set up and run the project on your local machine.
 Clone the repository to your local machine using Git:
 
 ```bash
-git clone [https://github.com/MangeshChate/school-website-Task.git](https://github.com/MangeshChate/school-website-Task.git)
+git clone https://github.com/MangeshChate/school-website-Task.git
 cd your-repository
 ```
 
