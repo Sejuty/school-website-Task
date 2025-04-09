@@ -38,7 +38,7 @@ function App() {
 
   return (
     <Router>
-      <div className='bg-gray-100'>
+      <div className='bg-gray-100 overflow-x-hidden'>
         <Navbar />
         <Routes>
           <Route
@@ -47,7 +47,7 @@ function App() {
             element={
               <div>
                 <Coursoul />
-                <Marquee text={`"Welcome to Springdale Public School, where we nurture young minds for a brighter future."`} />
+                <Marquee text={`"Welcome to চট্টগ্রাম মডেল কেয়ার স্কুল এন্ড কলেজ, where we nurture young minds for a brighter future."`} />
                 <Timer />
                 <Marquee text={`"Join us for our Annual Science Exhibition, where students showcase innovative science projects and experiments."`} />
                 <Main2 />

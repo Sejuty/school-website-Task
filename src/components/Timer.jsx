@@ -12,7 +12,7 @@ function Timer() {
             Events Date  27 & 28 March 2024
           </span>
           <span className='text-lg hidden lg:block  lg:text-4xl lg:w-[400px] w-auto font-bold'>
-          Springdale Public School <br />
+          চট্টগ্রাম মডেল কেয়ার স্কুল এন্ড কলেজ <br />
           Annual Science Exhibition
           </span>
         </div>

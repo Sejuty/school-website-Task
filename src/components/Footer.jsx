@@ -19,7 +19,7 @@ function Footer() {
         <div className="container text-center text-md-start mt-5">
           <div className="row mt-3">
             <div className="col-md-3 col-lg-4 col-xl-3 mx-auto mb-4">
-              <h6 className="text-uppercase fw-bold mb-4">Springdale Public School</h6>
+              <h6 className="text-uppercase fw-bold mb-4">চট্টগ্রাম মডেল কেয়ার স্কুল এন্ড কলেজ</h6>
               <p>
                 Address: <br />
                 123 Main Street, <br />
@@ -57,7 +57,7 @@ function Footer() {
         </div>
       </section>
       <div className="text-center p-4" style={{ backgroundColor: "rgba(0, 0, 0, 0.05)" }}>
-        © 2024 Springdale Public School. All rights reserved.
+        © 2024 চট্টগ্রাম মডেল কেয়ার স্কুল এন্ড কলেজ. All rights reserved.
       </div>
     </footer>
   );
